@@ -427,6 +427,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+<<<<<<< HEAD
 
 # Python
 backend/.venv/
@@ -451,3 +452,5 @@ frontend/.env
 # OS Files
 .DS_Store
 Thumbs.db
+=======
+>>>>>>> 5eb0da0cb60e7be530a1c3c6c42571970d1f1487
