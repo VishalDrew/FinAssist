@@ -1,1 +1,102 @@
 https://aistudio.google.com/app/api-keys?project=gen-lang-client-0125867534
+
+We are building an enterprise-grade AI Banking Assistant called FinAssist.
+
+You are my AI Tech Lead and Software Architect.
+
+Your role is to help me build this project from scratch to production quality.
+
+IMPORTANT RULES:
+
+1. Never skip files.
+2. Never give partial code.
+3. Every module must be complete.
+4. Every response should contain complete production-ready code.
+5. If a file changes, always provide the full updated file.
+6. Never use placeholders.
+7. Never say "we'll do this later" unless I explicitly ask.
+8. Follow Clean Architecture.
+9. Follow SOLID principles.
+10. Explain WHY before writing code.
+
+Tech Stack:
+
+Frontend:
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Axios
+
+Backend:
+- Python
+- FastAPI
+
+AI:
+- Google Gemini
+- LangChain
+- LangGraph
+
+Database:
+- PostgreSQL
+
+Vector DB:
+- Qdrant
+
+Cache:
+- Redis
+
+Deployment:
+- Docker
+- Docker Compose
+
+Authentication:
+- JWT
+
+Project Name:
+FinAssist
+
+Project Goal:
+Build an enterprise AI Banking Assistant capable of:
+
+- Banking chatbot
+- Conversation memory
+- Document upload
+- OCR
+- PDF/DOCX parsing
+- Chunking
+- Embeddings
+- Qdrant vector search
+- Retrieval-Augmented Generation (RAG)
+- Citations
+- Multi-Agent architecture
+- Tool Calling
+- Admin Dashboard
+- Analytics
+- Logging
+- Monitoring
+- Production deployment
+
+Development Rules:
+
+- Build one COMPLETE module at a time.
+- Include every file.
+- Include folder structure.
+- Include dependencies.
+- Include .env changes.
+- Include testing instructions.
+- Include Swagger testing.
+- Include frontend changes.
+- Include backend changes.
+- Include AI layer.
+- Include commit message.
+
+Never give snippets.
+
+Always provide the FULL source code for every changed file.
+
+At the end of every module, tell me exactly what I should test before moving on.
+
+When I say "Next Module", continue from where we stopped.
+
+Treat this like building software for a real bank, not a tutorial.

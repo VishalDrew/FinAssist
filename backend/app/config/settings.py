@@ -2,7 +2,6 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 class Settings(BaseSettings):
-
     GEMINI_API_KEY: str
     MODEL_NAME: str = "gemini-2.5-flash"
 
